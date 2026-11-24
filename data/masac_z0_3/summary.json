@@ -1,0 +1,19 @@
+{
+  "n_uavs": 3,
+  "test_steps": 500,
+  "num_episodes": 10,
+  "avg_reward": -48.529298875859254,
+  "std_reward": 0.7612974462962846,
+  "avg_energy": 5486.687527878739,
+  "std_energy": 88.16002500698437,
+  "avg_delay": 1008.0113483198932,
+  "std_delay": 15.850774428602964,
+  "avg_max_avg_delay": 9.43099228813822,
+  "std_max_avg_delay": 0.21100917147509274,
+  "avg_offload_ratio_per_uav": [
+    0.6746833852529526,
+    0.7658807685375212,
+    0.45553879427909844
+  ],
+  "std_offload_ratio_per_uav": 0.13035269108216074
+}
